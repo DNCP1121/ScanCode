@@ -1,1 +1,2 @@
 # ScanCode
+ScanApp :scan QR 
